@@ -1,6 +1,13 @@
 # Personal site
 
-Built using
+Built using:
 
-Astro
-Tailwind
+- Astro
+- Tailwind
+
+## Todos
+
+[] Add web based CV
+[] Add posts - thoughts page
+[] Add my own project section
+[] Add wins
