@@ -7,7 +7,7 @@ Built using:
 
 ## Todos
 
-[] Add web based CV
-[] Add posts - thoughts page
-[] Add my own project section
-[] Add wins
+- [] Add web based CV
+- [] Add posts - thoughts page
+- [] Add my own project section
+- [] Add wins
