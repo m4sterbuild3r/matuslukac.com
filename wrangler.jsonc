@@ -6,6 +6,5 @@
 	},
 	"routes": [
 		{ "pattern": "matuslukac.com", "custom_domain": true },
-		{ "pattern": "www.matuslukac.com", "custom_domain": true }
 	]
 }
