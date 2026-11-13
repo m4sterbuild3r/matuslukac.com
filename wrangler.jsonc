@@ -1,0 +1,11 @@
+{
+	"name": "matuslukac",
+	"compatibility_date": "2026-11-13",
+	"assets": {
+		"directory": "./dist"
+	},
+	"routes": [
+		{ "pattern": "matuslukac.com", "custom_domain": true },
+		{ "pattern": "www.matuslukac.com", "custom_domain": true }
+	]
+}
